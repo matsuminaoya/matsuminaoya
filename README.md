@@ -19,10 +19,8 @@
 ## DM
 - Didcord : matsuminaoya
 - mail    : paintabridge at gmail.com
-## BOOK
-- 美学イデオロギー(ポール・ド・マン), 春琴抄(谷崎潤一郎)
-## TRIP
-- あぶくま洞
+
+
 <!--
 **matsuminaoya/matsuminaoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
