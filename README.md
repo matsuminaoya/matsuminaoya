@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=  windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino," />
+    <img alt="my skills" src="https://skillicons.dev/icons?i=  windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino," />
   </a>
 </p>
 
