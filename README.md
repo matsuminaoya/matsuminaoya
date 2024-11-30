@@ -19,23 +19,6 @@
 - グンゼスポーツクラブスイミングインストラクター
 - 育英西高校 総合型探究授業 授業補助員
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino" />
-  </a>
-</p>
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino&theme=light)](https://skillicons.dev)
-
 
 
 
