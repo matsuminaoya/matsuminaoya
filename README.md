@@ -21,16 +21,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="my skills" src="https://skillicons.dev/icons?i=  windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino," />
+    <img alt="my skills" src="https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
 
 
 
