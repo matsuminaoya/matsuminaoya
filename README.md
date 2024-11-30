@@ -34,7 +34,7 @@
     <img alt="my skills" src="https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino&theme=light)](https://skillicons.dev)
 
 
 
