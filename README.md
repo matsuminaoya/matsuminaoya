@@ -2,7 +2,7 @@
 ## 松見直哉
 
 - Academic background -
-東京科学大学 環境･社会理工学院融合理工学系 エンジニアリングデザインコース修士１年
+東京科学大学 環境･社会理工学院融合理工学系 エンジニアリングデザインコース修士１年 /n
 立命館大学 情報理工学部情報理工学科 先端社会デザインコース卒
 大連理工大 学国際情報ソフトウェア学部 SummerSchool修了
 University of California, Davis SummerSchool修了
