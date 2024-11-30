@@ -2,9 +2,9 @@
 ## 松見直哉 マツミナオヤ
 
 ## ✨Academic
-- 東京科学大学 環境･社会理工学院融合理工学系エンジニアリングデザインコース 中丸研究室 修士1年 Now
-- 立命館大学 情報理工学部先端社会デザインコース セマンティックコミュニケーション研究室 学士卒
-- 大連理工大 学国際情報ソフトウェア学部 SummerSchool 修了
+- 東京科学大学環境･社会理工学院融合理工学系エンジニアリングデザインコース中丸研究室 修士1年 Now
+- 立命館大学情報理工学部先端社会デザインコースセマンティックコミュニケーション研究室 学士卒
+- 大連理工大学国際情報ソフトウェア学部 SummerSchool 修了
 - University of California, Davis SummerSchool 修了
 - 私立浅野中学・高等学校卒
 
@@ -20,6 +20,7 @@
 - 育英西高校 総合型探究授業 授業補助員
 
 ## Skill
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=  windows,vscode,ubuntu,rust,r,py,powershell,notion,nodejs,mysql,matlab,linux,java,html,gmail,github,git,docker,discord,css,c,bash,arduino," />
 
 
 
