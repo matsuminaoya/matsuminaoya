@@ -15,8 +15,8 @@
 - グンゼスポーツクラブスイミングインストラクター
 - 育英西高校 総合型探究授業 授業補助員
 ## DM
-- Discord : matsuminaoya
-- mail    : paintabridge at gmail.com
+- Discord：matsuminaoya
+- mail：paintabridge at gmail.com
 
 
 <!--
