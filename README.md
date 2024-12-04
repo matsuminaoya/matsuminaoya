@@ -5,8 +5,8 @@
   > マルチエージェントシミュレーションを用いたソーシャルネットワークの切断･構築が協力の進化に与える影響の考察
 - 立命館大学情報理工学部先端社会デザインコース セマンティックコミュニケーション研究室 学士卒
   > 大規模言語モデルを用いたナレッジグラフ構築手法の提案
-- 大連理工大学国際情報ソフトウェア学部 SummerSchool 修了
-- University of California, Davis SummerSchool 修了
+- 中国大連理工大学国際情報ソフトウェア学部 SummerSchool 修了
+- 米国University of California, Davis SummerSchool 修了
 - 私立浅野中学･高等学校 卒業
 ### AWARDS
 - 2024年10月発売 php新書「立命館がすごい」第3章掲載 new
