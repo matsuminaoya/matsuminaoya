@@ -18,6 +18,7 @@
 ## DM
 - Discord：matsuminaoya
 - Mail：paintabridge at gmail.com
+</br>
 
 > [!NOTE]
 > 就活するひまないのでひもにしてください
