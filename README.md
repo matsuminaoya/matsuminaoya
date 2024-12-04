@@ -23,15 +23,15 @@
 </br>
 
 <details>
-<summary>BOOKS</summary>
-
-- 春琴抄
-</details>
-
-<details>
 <summary>NOTE</summary>
 
 - 就活する時間がないのでひもにしてください
+</details>
+
+<details>
+<summary>BOOKS</summary>
+
+- 春琴抄
 </details>
 
 <!--
