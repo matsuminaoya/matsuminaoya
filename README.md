@@ -16,9 +16,8 @@
 - 学校法人奈良育英学園 総合型探究授業 授業補助員
 - グンゼスポーツクラブ スイミングインストラクター
 ### DM
-- Discord：matsuminaoya
+- Discord Username：matsuminaoya
 - Mail：paintabridge at gmail.com
-</br>
 
 <details>
 <summary>BOOKS</summary>
