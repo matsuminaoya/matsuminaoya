@@ -23,9 +23,9 @@
 </br>
 
 <details>
-<summary>Books</summary>
+<summary>BOOKS</summary>
 
-- あ
+- 春琴抄
 </details>
 
 <details>
