@@ -20,7 +20,7 @@
 - Mail：paintabridge at gmail.com
 
 > [!NOTE]
-> 就活してる暇ないのでひもにしてください
+> 就活するひまないのでひもにしてください
 
 <!--
 **matsuminaoya/matsuminaoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
