@@ -20,8 +20,17 @@
 - Mail：paintabridge at gmail.com
 </br>
 
-> [!NOTE]
-> 就活するひまないのでひもにしてください
+<details>
+<summary>BOOKS</summary>
+
+- あ
+</details>
+
+<details>
+<summary>NOTE</summary>
+
+- 就活する時間がないのでひもにしてください
+</details>
 
 <!--
 **matsuminaoya/matsuminaoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
