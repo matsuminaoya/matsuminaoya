@@ -25,7 +25,7 @@
 - Discord Username：matsuminaoya
 - Mail：paintabridge at gmail.com
 </br>
-##
+
 <details>
 <summary>NOTE</summary>
 
