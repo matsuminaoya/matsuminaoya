@@ -1,6 +1,7 @@
 <!--## Hi there 👋-->
 ## ACADEMIC
 - 東京科学大学環境･社会理工学院融合理工学系エンジニアリングデザインコース 中丸研究室 修士1年 Now
+- ##a
 - 立命館大学情報理工学部先端社会デザインコース セマンティックコミュニケーション研究室 学士卒
 - 大連理工大学国際情報ソフトウェア学部 SummerSchool 修了
 - University of California, Davis SummerSchool 修了
