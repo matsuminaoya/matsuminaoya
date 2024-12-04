@@ -23,7 +23,7 @@
 </br>
 
 <details>
-<summary>BOOKS</summary>
+<summary>Books</summary>
 
 - あ
 </details>
