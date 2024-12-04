@@ -25,7 +25,7 @@
 - Discord Username：matsuminaoya
 - Mail：paintabridge at gmail.com
 </br>
-
+##
 <details>
 <summary>NOTE</summary>
 
@@ -37,6 +37,12 @@
 
 - 春琴抄
 </details>
+
+<!--
+```
+for code
+```
+-->
 
 <!--
 **matsuminaoya/matsuminaoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
