@@ -5,7 +5,7 @@
 ## EDUCATION
 - 東京科学大学環境･社会理工学院融合理工学系エンジニアリングデザインコース 中丸研究室 修士1年[^1] now
 - 立命館大学情報理工学部先端社会デザインコース セマンティックコミュニケーション研究室 学士卒[^2]
-- 中国大连理工大学国際情報ソフトウェア学部 日中同窗友情暑期营 修了
+- 中国大连理工大学国際情報ソフトウェア学院 日中同窗友情暑期营 修了
 - 米国University of California, Davis. International Program: English for Science and Technology 修了
 - 私立浅野中学･高等学校 卒業
 ## AWARDS AND HONORS
