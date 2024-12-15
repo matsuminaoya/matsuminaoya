@@ -1,6 +1,10 @@
 <!--## Hi there 👋-->
+<!--
+00/00/00 day 0: hamigaki: fina: asasanpo: otakebi: workout: asameetegg: hardwork: reading: english: meiso: donottalktoomuch: donotchasewomen: ★nofap: ★nocarbon: digitalshutdown8: justsleep:
 
-<!-- from 24/12/16 - thid is the day 1 -->
+24/12/16 day 1: hamigaki: fina: asasanpo: otakebi: workout: asameetegg: hardwork: reading: english: meiso: donottalktoomuch: donotchasewomen: ★nofap: ★nocarbon: digitalshutdown8: justsleep:
+-->
+
 
 ## EDUCATION
 - 東京科学大学環境･社会理工学院融合理工学系エンジニアリングデザインコース 中丸研究室 修士1年[^1] now
