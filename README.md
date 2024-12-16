@@ -2,7 +2,7 @@
 <!--
 00/00/00 day 0: hamigaki: fina: asasanpo: otakebi: workout: asameetegg: hardwork: reading: english: meiso: donottalktoomuch: donotchasewomen: ★nofap: ★nocarbon: digitalshutdown8: justsleep:
 
-24/12/16 day 1: hamigaki: fina: asasanpo: otakebi: workout: asameetegg: hardwork: reading: english: meiso: donottalktoomuch: donotchasewomen: ★nofap: ★nocarbon: digitalshutdown8: justsleep:
+24/12/16 day 1: hamigaki💯 fina💯 asasanpo: otakebi: workout: asameetegg: hardwork: reading: english: meiso: donottalktoomuch: donotchasewomen: ★nofap: ★nocarbon: digitalshutdown8: justsleep:
 -->
 
 ## EDUCATION
