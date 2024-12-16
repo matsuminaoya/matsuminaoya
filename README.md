@@ -27,6 +27,7 @@
 - Discord Username：matsuminaoya
 - Mail：paintabridge at gmail.com
 </br>
+
 [^1]: エージェントベースシミュレーションを用いたソーシャルネットワークの切断･構築が協力の進化に与える影響についての考察（仮）
 [^2]: 大規模言語モデルを用いたナレッジグラフ構築手法
 
